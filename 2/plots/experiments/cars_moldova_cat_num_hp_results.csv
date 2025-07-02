@@ -1,0 +1,8 @@
+Dataset,Learning Rate,Batch Size,Optimizer,MSE
+cars_moldova_cat_num.csv,0.001,32,SGD,47248488.0
+cars_moldova_cat_num.csv,0.01,32,SGD,47091800.0
+cars_moldova_cat_num.csv,0.1,32,SGD,50262428.0
+cars_moldova_cat_num.csv,0.01,16,SGD,47124040.0
+cars_moldova_cat_num.csv,0.01,64,SGD,47238696.0
+cars_moldova_cat_num.csv,0.01,32,Adam,169369920.0
+cars_moldova_cat_num.csv,0.01,32,RMSprop,169316480.0

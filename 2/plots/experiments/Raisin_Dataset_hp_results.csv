@@ -1,0 +1,4 @@
+Dataset,Learning Rate,Batch Size,Optimizer,Accuracy
+Raisin_Dataset.csv,0.001,32,SGD,0.8
+Raisin_Dataset.csv,0.01,32,SGD,0.8611111111111112
+Raisin_Dataset.csv,0.01,64,Adam,0.8722222222222222

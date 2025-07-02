@@ -1,0 +1,71 @@
+2025-07-02 14:01:39,258 - INFO - Example usage with synthetic data
+2025-07-02 14:01:40,509 - INFO - Starting linear regression training
+2025-07-02 14:01:40,518 - INFO - New best loss: 8.86036661693028
+2025-07-02 14:01:40,519 - INFO - Epoch 1/50 - Train Loss: 8.9592 - Val Loss: 8.8604
+2025-07-02 14:01:40,524 - INFO - New best loss: 8.466572557176862
+2025-07-02 14:01:40,524 - INFO - Epoch 2/50 - Train Loss: 9.1888 - Val Loss: 8.4666
+2025-07-02 14:01:40,530 - INFO - New best loss: 8.216457707541329
+2025-07-02 14:01:40,530 - INFO - Epoch 3/50 - Train Loss: 8.9186 - Val Loss: 8.2165
+2025-07-02 14:01:40,536 - INFO - New best loss: 8.082995278494698
+2025-07-02 14:01:40,536 - INFO - Epoch 4/50 - Train Loss: 8.1962 - Val Loss: 8.0830
+2025-07-02 14:01:40,545 - INFO - New best loss: 7.992908409663609
+2025-07-02 14:01:40,545 - INFO - Epoch 5/50 - Train Loss: 8.0024 - Val Loss: 7.9929
+2025-07-02 14:01:40,545 - INFO - Early stopping at epoch 5
+2025-07-02 14:01:40,546 - INFO - Best weights restored
+2025-07-02 14:02:30,329 - INFO - Example usage with synthetic data
+2025-07-02 14:02:31,409 - INFO - Starting linear regression training
+2025-07-02 14:02:31,418 - INFO - New best loss: 8.36652067729405
+2025-07-02 14:02:31,419 - INFO - Epoch 1/50 - Train Loss: 8.5027 - Val Loss: 8.3665
+2025-07-02 14:02:31,426 - INFO - New best loss: 8.209499529429845
+2025-07-02 14:02:31,426 - INFO - Epoch 2/50 - Train Loss: 7.6447 - Val Loss: 8.2095
+2025-07-02 14:02:31,432 - INFO - New best loss: 8.07443881034851
+2025-07-02 14:02:31,432 - INFO - Epoch 3/50 - Train Loss: 7.6647 - Val Loss: 8.0744
+2025-07-02 14:02:31,438 - INFO - New best loss: 7.959909745625088
+2025-07-02 14:02:31,438 - INFO - Epoch 4/50 - Train Loss: 8.2491 - Val Loss: 7.9599
+2025-07-02 14:02:31,445 - INFO - New best loss: 7.909522669655936
+2025-07-02 14:02:31,445 - INFO - Epoch 5/50 - Train Loss: 7.6623 - Val Loss: 7.9095
+2025-07-02 14:02:31,445 - INFO - Early stopping at epoch 5
+2025-07-02 14:02:31,445 - INFO - Best weights restored
+2025-07-02 14:05:32,778 - INFO - Example usage with synthetic data
+2025-07-02 14:05:33,956 - INFO - Starting linear regression training
+2025-07-02 14:05:33,965 - INFO - New best loss: 5.682901995522635
+2025-07-02 14:05:33,965 - INFO - Epoch 1/50 - Train Loss: 5.8810 - Val Loss: 5.6829
+2025-07-02 14:05:33,973 - INFO - New best loss: 5.677662781306675
+2025-07-02 14:05:33,973 - INFO - Epoch 2/50 - Train Loss: 5.7166 - Val Loss: 5.6777
+2025-07-02 14:05:33,978 - INFO - New best loss: 5.638627461024693
+2025-07-02 14:05:33,979 - INFO - Epoch 3/50 - Train Loss: 5.8575 - Val Loss: 5.6386
+2025-07-02 14:05:33,984 - INFO - Epoch 4/50 - Train Loss: 5.9039 - Val Loss: 5.6460
+2025-07-02 14:05:33,990 - INFO - Epoch 5/50 - Train Loss: 5.9341 - Val Loss: 5.6467
+2025-07-02 14:05:33,990 - INFO - Early stopping at epoch 5
+2025-07-02 14:05:33,991 - INFO - Best weights restored
+2025-07-02 14:05:52,882 - INFO - Example usage with synthetic data
+2025-07-02 14:05:54,088 - INFO - Starting linear regression training
+2025-07-02 14:05:54,097 - INFO - New best loss: 6.743897540228708
+2025-07-02 14:05:54,097 - INFO - Epoch 1/50 - Train Loss: 5.5222 - Val Loss: 6.7439
+2025-07-02 14:05:54,103 - INFO - New best loss: 6.672952004841396
+2025-07-02 14:05:54,104 - INFO - Epoch 2/50 - Train Loss: 5.8302 - Val Loss: 6.6730
+2025-07-02 14:05:54,109 - INFO - New best loss: 6.637425763266427
+2025-07-02 14:05:54,109 - INFO - Epoch 3/50 - Train Loss: 6.3292 - Val Loss: 6.6374
+2025-07-02 14:05:54,115 - INFO - New best loss: 6.616620336260114
+2025-07-02 14:05:54,115 - INFO - Epoch 4/50 - Train Loss: 5.7842 - Val Loss: 6.6166
+2025-07-02 14:05:54,121 - INFO - New best loss: 6.596918106079102
+2025-07-02 14:05:54,122 - INFO - Epoch 5/50 - Train Loss: 5.6513 - Val Loss: 6.5969
+2025-07-02 14:05:54,122 - INFO - Early stopping at epoch 5
+2025-07-02 14:05:54,122 - INFO - Best weights restored
+2025-07-02 14:06:40,652 - INFO - Example usage with synthetic data
+2025-07-02 14:06:41,823 - INFO - Starting linear regression training
+2025-07-02 14:06:41,832 - INFO - New best loss: 9.501342364719935
+2025-07-02 14:06:41,833 - INFO - Epoch 1/50 - Train Loss: 7.8768 - Val Loss: 9.5013
+2025-07-02 14:06:41,838 - INFO - New best loss: 9.315070765359062
+2025-07-02 14:06:41,838 - INFO - Epoch 2/50 - Train Loss: 7.5656 - Val Loss: 9.3151
+2025-07-02 14:06:41,843 - INFO - New best loss: 9.204908439091273
+2025-07-02 14:06:41,843 - INFO - Epoch 3/50 - Train Loss: 7.3476 - Val Loss: 9.2049
+2025-07-02 14:06:41,848 - INFO - New best loss: 9.100182601383754
+2025-07-02 14:06:41,849 - INFO - Epoch 4/50 - Train Loss: 7.8171 - Val Loss: 9.1002
+2025-07-02 14:06:41,854 - INFO - New best loss: 9.047711168016706
+2025-07-02 14:06:41,854 - INFO - Epoch 5/50 - Train Loss: 7.0303 - Val Loss: 9.0477
+2025-07-02 14:06:41,855 - INFO - Early stopping at epoch 5
+2025-07-02 14:06:41,855 - INFO - Best weights restored
+2025-07-02 14:06:41,997 - INFO - Confusion matrix saved to 2/plots/confusion_matrix.png
+2025-07-02 14:06:41,997 - INFO - Classification metrics: {'precision': 0.6623376623376623, 'recall': 0.66, 'f1': 0.6587715776796468, 'roc_auc': np.float64(0.6772)}
+2025-07-02 14:06:41,999 - INFO - Model saved to 2/models/logreg_model.pth
