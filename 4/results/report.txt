@@ -1,0 +1,37 @@
+Model Comparison Summary
+==================================================
+
+MNIST Results:
+--------------------------------------------------
+FC:
+  Test Accuracy: 0.9798
+  Train Time: 143.54s
+  Parameters: 535,818
+
+SimpleCNN:
+  Test Accuracy: 0.9933
+  Train Time: 401.28s
+  Parameters: 421,642
+
+ResidualCNN:
+  Test Accuracy: 0.9928
+  Train Time: 1086.28s
+  Parameters: 160,906
+
+CIFAR-10 Results:
+--------------------------------------------------
+FC:
+  Test Accuracy: 0.5326
+  Train Time: 222.14s
+  Parameters: 1,707,274
+
+ResidualCNN:
+  Test Accuracy: 0.7972
+  Train Time: 1031.80s
+  Parameters: 161,482
+
+ResCNN_Regularized:
+  Test Accuracy: 0.7680
+  Train Time: 362.06s
+  Parameters: 620,362
+

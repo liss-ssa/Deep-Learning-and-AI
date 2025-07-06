@@ -1,0 +1,36 @@
+{
+  "MNIST": {
+    "FC": {
+      "final_test_acc": 0.9798,
+      "train_time": 143.53986310958862,
+      "params": 535818
+    },
+    "SimpleCNN": {
+      "final_test_acc": 0.9933,
+      "train_time": 401.2757487297058,
+      "params": 421642
+    },
+    "ResidualCNN": {
+      "final_test_acc": 0.9928,
+      "train_time": 1086.2845525741577,
+      "params": 160906
+    }
+  },
+  "CIFAR-10": {
+    "FC": {
+      "final_test_acc": 0.5326,
+      "train_time": 222.1406536102295,
+      "params": 1707274
+    },
+    "ResidualCNN": {
+      "final_test_acc": 0.7972,
+      "train_time": 1031.8025529384613,
+      "params": 161482
+    },
+    "ResCNN_Regularized": {
+      "final_test_acc": 0.768,
+      "train_time": 362.0568425655365,
+      "params": 620362
+    }
+  }
+}

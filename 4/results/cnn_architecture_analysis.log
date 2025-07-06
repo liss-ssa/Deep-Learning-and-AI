@@ -1,0 +1,32 @@
+2025-07-05 21:32:05,945 - INFO - Starting kernel size experiments...
+2025-07-05 21:32:07,419 - INFO - Training 3x3 with 27,674 parameters
+2025-07-05 21:37:55,130 - INFO - Training 5x5 with 58,858 parameters
+2025-07-05 21:40:32,052 - INFO - Starting kernel size experiments...
+2025-07-05 21:40:33,508 - INFO - Training 3x3 with 27,674 parameters
+2025-07-05 21:40:33,509 - INFO - FC input size: 256
+2025-07-05 21:46:22,741 - INFO - Training 5x5 with 76,778 parameters
+2025-07-05 21:46:22,742 - INFO - FC input size: 2048
+2025-07-05 21:53:17,145 - INFO - Training 7x7 with 173,450 parameters
+2025-07-05 21:53:17,145 - INFO - FC input size: 16384
+2025-07-05 21:58:20,342 - INFO - Training 1x1+3x3 with 26,138 parameters
+2025-07-05 21:58:20,342 - INFO - FC input size: 256
+2025-07-05 22:04:36,824 - INFO - 
+Starting depth experiments...
+2025-07-05 22:04:38,339 - INFO - Training Shallow (2) with 403,722 parameters
+2025-07-05 22:16:56,386 - INFO - Training Medium (4) with 1,880,586 parameters
+2025-07-05 23:09:52,258 - INFO - Training Deep (6) with 6,356,490 parameters
+2025-07-06 00:52:47,655 - INFO - Training ResNet (6) with 446,474 parameters
+2025-07-06 03:14:44,178 - INFO - 
+Experiments completed!
+2025-07-06 03:14:44,178 - INFO - 
+Kernel Size Results:
+2025-07-06 03:14:44,179 - INFO - 3x3: Accuracy=0.7220, RF=7
+2025-07-06 03:14:44,179 - INFO - 5x5: Accuracy=0.7456, RF=9
+2025-07-06 03:14:44,179 - INFO - 7x7: Accuracy=0.6518, RF=7
+2025-07-06 03:14:44,179 - INFO - 1x1+3x3: Accuracy=0.6659, RF=5
+2025-07-06 03:14:44,179 - INFO - 
+Depth Results:
+2025-07-06 03:14:44,180 - INFO - Shallow (2): Accuracy=0.7088, Gradients=2.80e-02±2.62e-02
+2025-07-06 03:14:44,180 - INFO - Medium (4): Accuracy=0.8266, Gradients=1.00e-03±1.39e-03
+2025-07-06 03:14:44,180 - INFO - Deep (6): Accuracy=0.8238, Gradients=4.82e-03±8.01e-03
+2025-07-06 03:14:44,180 - INFO - ResNet (6): Accuracy=0.8111, Gradients=2.38e-02±2.36e-02

@@ -1,0 +1,22 @@
+{
+  "standard": {
+    "test_acc": 0.6459,
+    "train_time": 215.15442991256714,
+    "params": 82826
+  },
+  "conv": {
+    "test_acc": 0.6368,
+    "train_time": 263.19156312942505,
+    "params": 82828
+  },
+  "attention": {
+    "test_acc": 0.6493,
+    "train_time": 273.2615416049957,
+    "params": 83118
+  },
+  "activation": {
+    "test_acc": 0.6317,
+    "train_time": 214.92761039733887,
+    "params": 82826
+  }
+}

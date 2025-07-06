@@ -1,0 +1,26 @@
+{
+  "3x3": {
+    "test_acc": 0.722,
+    "params": 27674,
+    "fc_input": 256,
+    "receptive_field": 7
+  },
+  "5x5": {
+    "test_acc": 0.7456,
+    "params": 76778,
+    "fc_input": 2048,
+    "receptive_field": 9
+  },
+  "7x7": {
+    "test_acc": 0.6518,
+    "params": 173450,
+    "fc_input": 16384,
+    "receptive_field": 7
+  },
+  "1x1+3x3": {
+    "test_acc": 0.6659,
+    "params": 26138,
+    "fc_input": 256,
+    "receptive_field": 5
+  }
+}
